@@ -8,7 +8,7 @@ int main()
    //    cout<< i<< endl;
    //     }
    //***********whtile loop ****************
-   
+   // hello akib sakib and humayra //
 
     return 0;
 }
