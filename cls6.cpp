@@ -58,6 +58,6 @@ cout<< "comparison operator "<< endl;
         cout<< "the value of this logical and operator is ((a==b)||(a<b))is :"<< ((a==b)||(a<b))<< endl;
     
     
-    
+    //akib sakib 0123//
         return 0 ;
 } 
